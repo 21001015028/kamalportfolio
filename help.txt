@@ -1,0 +1,7 @@
+npm i --save -d dotenv
+create at root level .env file ,and put below three variables from emailjs profile
+REACT_APP_sid=pastekeywithoutcommans
+REACT_APP_tid=pastekeywithoutcommans
+REACT_APP_pid=pastekeywithoutcommans
+
+
