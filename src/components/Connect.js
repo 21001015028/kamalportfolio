@@ -13,7 +13,7 @@ const Connect = () => {
         <>
             <Icons >      
                     <Link data-aos="fade-left" data-aos-delay="320"
-                        to = {{pathname:"https://github.com/"}} 
+                        to = {{pathname:"https://github.com/21001015028"}} 
                         target={"_blank"} 
                         rel="noopener noreferrer">
                             <FaGithub className='icon' title='github'/>
@@ -21,7 +21,7 @@ const Connect = () => {
                     
                     
                     <Link data-aos="fade-right" data-aos-delay="325"
-                        to = {{pathname: "https://www.linkedin.com/in/"}} 
+                        to = {{pathname: "https://www.linkedin.com/in/kamal-yadav-8586a122b"}} 
                         target={"_blank"} 
                         rel="noopener noreferrer">
                             <FaLinkedin className='icon' title='linkedin'/>
@@ -29,17 +29,17 @@ const Connect = () => {
                     
                 
                     <Link data-aos="fade-left" data-aos-delay="330"
-                        to = {{pathname:"mailto:kamal@gmail.com"}} 
+                        to = {{pathname:"mailto:raokamal503@gmail.com"}} 
                         target={"_blank"} 
                         rel="noopener noreferrer"> 
                             <FaEnvelope className='icon' title='email'/>  
                         </Link>
-                    <Link data-aos="fade-right" data-aos-delay="335"
+                    {/* <Link data-aos="fade-right" data-aos-delay="335"
                         to = {{pathname:"https://twitter.com/"}} 
                         target={"_blank"} 
                         rel="noopener noreferrer">
                             <FaTwitterSquare className='icon' title='twitter'/>
-                    </Link>
+                    </Link> */}
                     <Link data-aos="fade-right" data-aos-delay="335"
                         to = {{pathname:"https://medium.com/"}}
                         target={"_blank"}

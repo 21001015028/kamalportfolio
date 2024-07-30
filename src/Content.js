@@ -9,55 +9,55 @@ import pimg from './assets/pimg.png'
 const contentCard = [
     {
         id: 1,
-        title: 'ABC...Proj',
+        title: 'Chat Application',
         body1: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur.',
         body2: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur, hic cupiditate necessitatibus.',
         image: pimg,
         tech: `#tech #tech #tech #tech`,
-        linkgithub:'https://github.com/',
-        linkdemo: 'https://kamalyadav.com/'
+        linkgithub:'https://github.com/21001015028/chatApplication',
+        linkdemo: 'https://chat-application-five-woad.vercel.app/login'
     },
     {
         id: 2,
-        title: 'DEF...Proj',
+        title: 'Weather forecasting using js',
         body1: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur.',
         body2: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur, hic cupiditate necessitatibus.',
         image: pimg,
         tech: `#tech #tech #tech #tech`,
-        linkgithub:'https://github.com/',
-        linkdemo: 'https://kamalyadav.com/'
+        linkgithub:'https://github.com/21001015028/weather-project',
+        linkdemo: 'http://127.0.0.1:5500/index.html'
     },
-    {
-        id: 3,
-        title: 'GHI...Proj',
-        body1: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur.',
-        body2: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur, hic cupiditate necessitatibus.',
-        image: pimg,
-        tech: `#tech #tech #tech #tech`,
-        linkgithub:'https://github.com/',
-        linkdemo: 'https://kamalyadav.com/'
-    },
-    {
-        id: 4,
-        title: 'JKL...Proj',
-        body1: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur.',
-        body2: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur, hic cupiditate necessitatibus.',
-        image: pimg,
-        tech: `#tech #tech #tech #tech`,
-        linkgithub:'https://github.com/',
-        linkdemo: 'https://kamalyadav.com/'
-    },
-    {
-        id: 5,
-        title: 'LMN...Proj',
-        body1: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur.',
-        body2: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur, hic cupiditate necessitatibus.',
-        image: pimg,
-        tech: `#tech #tech #tech #tech`,
-        linkgithub:'https://github.com/',
-        linkdemo: 'https://kamalyadav.com/'
-    }
+    // {
+    //     id: 3,
+    //     title: 'GHI...Proj',
+    //     body1: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur.',
+    //     body2: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur, hic cupiditate necessitatibus.',
+    //     image: pimg,
+    //     tech: `#tech #tech #tech #tech`,
+    //     linkgithub:'https://github.com/',
+    //     linkdemo: 'https://kamalyadav.com/'
+    // },
+    // {
+    //     id: 4,
+    //     title: 'JKL...Proj',
+    //     body1: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur.',
+    //     body2: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur, hic cupiditate necessitatibus.',
+    //     image: pimg,
+    //     tech: `#tech #tech #tech #tech`,
+    //     linkgithub:'https://github.com/',
+    //     linkdemo: 'https://kamalyadav.com/'
+    // },
+    // {
+    //     id: 5,
+    //     title: 'LMN...Proj',
+    //     body1: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur.',
+    //     body2: '- Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellat quibusdam excepturi sed consequuntur accusantium iste id debitis aspernatur, hic cupiditate necessitatibus.',
+    //     image: pimg,
+    //     tech: `#tech #tech #tech #tech`,
+    //     linkgithub:'https://github.com/',
+    //     linkdemo: 'https://kamalyadav.com/'
+    // }
         
-    ]
+     ]
     
     export default contentCard

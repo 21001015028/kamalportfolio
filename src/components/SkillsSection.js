@@ -47,7 +47,7 @@ const SkillsSection = () => {
                         {/* <img src={tailwind} alt="Tailwind" title='Tailwind' /> */}
                         <img src={mysql} alt="MySQL" title='MySQL' />
                         {/* <img src={docker} alt="Docker" title='Docker' /> */}
-                        <img src={expressjs} alt="ExpressJS" title='ExpressJS' />
+                        {/* <img src={expressjs} alt="ExpressJS" title='ExpressJS' /> */}
                         <img src={git} alt="git" title='git'/>
                         <img src={github} alt="github" title='github'/>
                         {/* <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="NextJS" title='NextJS' /> */}

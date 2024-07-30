@@ -1,7 +1,4 @@
-## Welcome!! <br/> Live ON - link
-
-![Project Screenshot](m.png)
-
+## Welcome!! <br/> Live ON - Link
 
 Step1: open terminal
 Step2: copy link from github repo

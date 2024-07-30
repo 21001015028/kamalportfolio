@@ -24,15 +24,15 @@ const AboutSection = () => {
                             </HP>
                         </BigText>
                         <BigText data-aos="fade-right" data-aos-delay="300">
-                            <HP ><span>and I'm a</span></HP>
+                            <HP ><span>and I'm an</span></HP>
                         </BigText>
                         <BigText data-aos="fade-right" data-aos-delay="500">
-                            <H2><span className="text-slider"> <Typewriter options={{strings: ['ABC Soft.. Kamal ', 'DEF Devp.. Yadav', 'GHI Kamal Yadav'],autoStart: true,loop: true,typeSpeed: 80,backSpeed: 35,backDelay: 1100,}}/> </span></H2>
+                            <H2><span className="text-slider"> <Typewriter options={{strings: ['engineering student[ENC]','studied in J.C Bose institute of science and technology YMCA Faridabad','become a software engineer'],autoStart: true,loop: true,typeSpeed: 80,backSpeed: 35,backDelay: 1100,}}/> </span></H2>
                         </BigText>
                         
                     </div>
                     
-                        <P data-aos="fade-up" >I’m a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea incidunt ut  Exercitationem nulla et incidunt veniam quibusdam..
+                        <P data-aos="fade-up" >I'm a student of last year .I am a learner and want to pursue knowledge in new technologies.
                         </P>
                     <Resume />
                     

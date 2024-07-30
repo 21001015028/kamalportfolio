@@ -15,7 +15,7 @@ const Resume = () => {
     return (
         <Div data-aos="fade-up" data-aos-delay="300">
             <A className="resume">  
-            <Link to={{ pathname: "https://kamalyadav.com" }} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', fontWeight: 'bold', color: '#dfdfdf' }}>Resume</Link>
+            <Link to={{ pathname: "https://drive.google.com/file/d/1yEulMGzx5MVpAsldHrzyZdLJhLROuh65/view?usp=drive_linkhttps://drive.google.com/file/d/1yEulMGzx5MVpAsldHrzyZdLJhLROuh65/view?usp=drive_link" }} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', fontWeight: 'bold', color: '#dfdfdf' }}>Resume</Link>
             </A>
         </Div>
     );

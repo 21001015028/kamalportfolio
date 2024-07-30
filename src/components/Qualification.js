@@ -112,21 +112,21 @@ const Qualification = () => {
                 <div className="timeline-block timeline-block-right">
                     <div className="marker active"><i className="fa fa-check active" aria-hidden="true"></i></div>
                     <div className="timeline-content">
-                        <HI>2021-2025</HI><p>B.Tech ..... <br/> YMCA ... <br/> ...CGPA</p>
+                        <HI>2021-2025</HI><p>B.Tech (Electronics and computer engineering) <br/> J.C Bose institute of science and technology YMCA Faridabad <br/> 8.2 CGPA</p>
                     </div>
                 </div>
 
                 <div className="timeline-block timeline-block-left">
                     <div className="marker active"><i className="fa fa-check" aria-hidden="true"></i></div>
                     <div className="timeline-content">
-                        <HI>2018-2019</HI><p>... PCM, <br/>Class 12 CBSE</p>
+                        <HI>2018-2019</HI><p>Class 12 CBSE <br/>83%</p>
                     </div>
                 </div>
 
                 <div className="timeline-block timeline-block-right active">
                     <div className="marker active"><i className="fa fa-check active" aria-hidden="true"></i></div>
                     <div className="timeline-content">
-                        <HI>2016-2017</HI><p>...%, Class 10 CBSE</p>
+                        <HI>2016-2017</HI><p> Class 10 CBSE<br/>9.6 CGPA</p>
                         
                     </div>
                 </div>
@@ -142,13 +142,13 @@ const Qualification = () => {
                     <div className="timeline-block timeline-block-right">
                         <div className="marker active"><i className="fa fa-check active" aria-hidden="true"></i></div>
                         <div className="timeline-content">
-                            <HI>XYZ....ROLE</HI>
-                            <Link to={{ pathname: "https://kamalyada.com/" }} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', fontWeight: 'bold'}}><H4>xyz...company</H4></Link>
-                            <h4>abc 20## - xyz 20##</h4>
-                            <p>- Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, eligendi<br/>- Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus quam.<br/>- Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium dignissimos facere eligendi. Maiores vero tempore evenie.</p>
+                            <HI>No experience yet</HI>
+                            <Link to={{ pathname: "https://kamalyadav.com/" }} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', fontWeight: 'bold'}}><H4>xyz...company</H4></Link>
+                            {/* <h4>abc 20## - xyz 20##</h4>
+                            <p>- Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, eligendi<br/>- Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus quam.<br/>- Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium dignissimos facere eligendi. Maiores vero tempore evenie.</p> */}
                         </div>
                     </div>
-                    <div className="timeline-block timeline-block-right">
+                    {/* <div className="timeline-block timeline-block-right">
                         <div className="marker active"><i className="fa fa-check active" aria-hidden="true"></i></div>
                         <div className="timeline-content">
                         <HI>ABC.....ROLE</HI>
@@ -156,8 +156,8 @@ const Qualification = () => {
                         <h4>abc 20## - xyz 20##</h4>
                         <p>- Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, quia sequi incidun.<br/>- Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum explicabo aspernatur dolore voluptatibus dolores consequatur.<br/>- Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe quis dicta vel porro.<br/></p>
                         </div>
-                    </div>
-                    <div className="timeline-block timeline-block-right">
+                    </div> */}
+                    {/* <div className="timeline-block timeline-block-right">
                         <div className="marker active"><i className="fa fa-check active" aria-hidden="true"></i></div>
                         <div className="timeline-content">
                         <HI>DEF......ROLE</HI>
@@ -166,7 +166,7 @@ const Qualification = () => {
                         <p>- Lorem ipsum dolor sit amet consectetur adipisicing elit.<br/>- Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas aut magnam ducimus voluptates voluptatem. <br/>- Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quis nisi. <br/>- Lorem ipsum dolor sit amet consectetur adipisi. </p>
                         </div>
                     </div>
-                    
+                     */}
                 </div>
             
             </VerticalTimelineElement>
@@ -186,33 +186,33 @@ const Qualification = () => {
                     <div className="timeline-block timeline-block-right">
                         <div className="marker active"><i className="fa fa-check active" aria-hidden="true"></i></div>
                         <div className="timeline-content">
-                        <h3 style={{color: "#888", fontSize: "1rem"}}>Solved .... <Link to={{ pathname: "https://leetcode.com" }} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: '#9241d5' }}>Leetcode</Link> | <Link to={{ pathname: "https://codeforces.com/" }} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: '#9241d5' }}>Codeforces</Link> | <Link to={{ pathname: "https://www.codechef.com/" }} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: '#9241d5' }}>Codechef</Link> | <Link to={{ pathname: "https://www.geeksforgeeks.org/" }} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: '#9241d5' }}>GeeksForGeeks</Link> | <Link to={{ pathname: "https://www.interviewbit.com/" }} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: '#9241d5' }}>InterviewBit</Link>.</h3>
+                        <h3 style={{color: "#888", fontSize: "1rem"}}>Solved .... <Link to={{ pathname: "https://leetcode.com/u/raokamal503/" }} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: '#9241d5' }}>Leetcode</Link>  | <Link to={{ pathname: "https://www.codechef.com/users/changerworld" }} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: '#9241d5' }}>Codechef</Link> | <Link to={{ pathname: "https://www.geeksforgeeks.org/user/raokamal503/" }} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: '#9241d5' }}>GeeksForGeeks</Link> .</h3>
                         </div>
                     </div>
                     <div className="timeline-block timeline-block-right">
                         <div className="marker active"><i className="fa fa-check active" aria-hidden="true"></i></div>
                         <div className="timeline-content">
-                        <h3 style={{color: "#888", fontSize: "1rem"}}> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque praesentium asperiores, velit esse.</h3>
+                        <h3 style={{color: "#888", fontSize: "1rem"}}>Public speaking course</h3>
                         </div>
                     </div>
                     <div className="timeline-block timeline-block-right">
+                        <div className="marker active"><i className="fa fa-check active" aria-hidden="true"></i></div>
+                        <div className="timeline-content">
+                        <h3 style={{color: "#888", fontSize: "1rem"}}>Participate in contest</h3>
+                        </div>
+                    </div>
+                    <div className="timeline-block timeline-block-right">
+                        <div className="marker active"><i className="fa fa-check active" aria-hidden="true"></i></div>
+                        <div className="timeline-content">
+                        <h3 style={{color: "#888", fontSize: "1rem"}}>Coding team member in 'SAMARPAN THE TECHNOPHILLIA' The coding society</h3>
+                        </div>
+                    </div>
+                    {/* <div className="timeline-block timeline-block-right">
                         <div className="marker active"><i className="fa fa-check active" aria-hidden="true"></i></div>
                         <div className="timeline-content">
                         <h3 style={{color: "#888", fontSize: "1rem"}}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque praesentium asperiores, velit esse.</h3>
                         </div>
-                    </div>
-                    <div className="timeline-block timeline-block-right">
-                        <div className="marker active"><i className="fa fa-check active" aria-hidden="true"></i></div>
-                        <div className="timeline-content">
-                        <h3 style={{color: "#888", fontSize: "1rem"}}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque praesentium asperiores, velit esse.</h3>
-                        </div>
-                    </div>
-                    <div className="timeline-block timeline-block-right">
-                        <div className="marker active"><i className="fa fa-check active" aria-hidden="true"></i></div>
-                        <div className="timeline-content">
-                        <h3 style={{color: "#888", fontSize: "1rem"}}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque praesentium asperiores, velit esse.</h3>
-                        </div>
-                    </div>
+                    </div> */}
                 </div>
             
             </VerticalTimelineElement>

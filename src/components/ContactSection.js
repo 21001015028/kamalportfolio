@@ -16,9 +16,12 @@ const ContactSection = () => {
 		email: "",
 		message: "", 
 	});
-	const EMAIL_JS_SERVICE_ID=process.env.REACT_APP_sid;
-	const EMAIL_JS_TEMPLATE_ID=process.env.REACT_APP_tid;
-	const EMAIL_JS_PUBLIC_KEY=process.env.REACT_APP_pid;
+	// const EMAIL_JS_SERVICE_ID=process.env.REACT_APP_sid;
+	// const EMAIL_JS_TEMPLATE_ID=process.env.REACT_APP_tid;
+	// const EMAIL_JS_PUBLIC_KEY=process.env.REACT_APP_pid;
+    const EMAIL_JS_SERVICE_ID="service_618v8ah";
+    const EMAIL_JS_TEMPLATE_ID="template_6hpl958";
+    const EMAIL_JS_PUBLIC_KEY="62npBHRzs--ujlUk_";
     const [loading, setLoading] = useState(false);
 
 	const handleChange = (e) => {
@@ -48,7 +51,7 @@ const ContactSection = () => {
 			return;
 		}
 		// console.log(username,user_email,user_message)
-
+     
 		emailjs
 			.send(
 				EMAIL_JS_SERVICE_ID,
@@ -137,7 +140,7 @@ const ContactSection = () => {
                                     <button
                                         type='submit'
                                         className='p-3 px-8 text-[#9241d5] rounded-xl outline-none w-fit font-bold shadow-md bg-[#130f13a4]'
-                                    >
+                                  onclick="sendMail()"  >
                                         {loading ? "Sending..." : "Send"}
                                     </button>
                      </form>
