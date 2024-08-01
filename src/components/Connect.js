@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import { Link } from 'react-router-dom';
-import { FaGithub, FaLinkedin, FaEnvelope, FaTwitterSquare, FaMediumM } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaEnvelope, FaMediumM } from 'react-icons/fa';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 

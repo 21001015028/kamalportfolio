@@ -40,7 +40,7 @@ const AboutSection = () => {
                 <div  className = "image-section">
                     <Img data-aos="fade-left"
                         src = {me} 
-                        alt = "Himanshu"/>
+                        alt = "Kamal"/>
                 
                 </div>
                 

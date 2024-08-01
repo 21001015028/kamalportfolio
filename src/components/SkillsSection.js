@@ -11,7 +11,7 @@ import mysql from '../assets/mysql.svg';
 // import docker from '../assets/docker.svg';
 import git from '../assets/git.svg';
 import github from '../assets/github.svg';
-import expressjs from '../assets/expressjs.svg';
+//import expressjs from '../assets/expressjs.svg';
 // import bootstrap from '../assets/bootstrap.svg';
 import css from '../assets/css.svg';
 import html from '../assets/html.svg';
@@ -51,7 +51,7 @@ const SkillsSection = () => {
                         <img src={git} alt="git" title='git'/>
                         <img src={github} alt="github" title='github'/>
                         {/* <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="NextJS" title='NextJS' /> */}
-                        <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" title='Linux' />
+                        {/* <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" title='Linux' /> */}
                         <img src={html} alt="html" title='HTML'/>
                         <img src="https://img.icons8.com/?size=100&id=19292&format=png&color=000000" alt="terminal" title ='terminal'/>
                         <img src={css} alt="css" title='CSS'/>
